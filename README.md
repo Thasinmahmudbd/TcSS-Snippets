@@ -5,20 +5,20 @@ This extension will generate code for you minimizing your coding time & saving a
 Check out all the other commands given below. Hope this helps improve your TcSS journey. 
 
 # Commands
-## Boilerplate:
+### Boilerplate:
 
 |**Command**           |**Information**                                |
 |----------------------|-----------------------------------------------|
 |t--                   |Generates a boilerplate with latest TcSS CDN.  |
 
-## Navbar:
+### Navbar:
 
 |**Command**           |**Information**                                |
 |----------------------|-----------------------------------------------|
 |t--nsn                |Generates a non sticky nav bar.                |
 |t--sn                 |Generates a sticky nav bar.                    |
 
-## Navbar Elements:
+### Navbar Elements:
 
 |**Command**           |**Information**                                |
 |----------------------|-----------------------------------------------|
@@ -28,7 +28,7 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 |t--n-searchFrm        |Generates a search form.                       |
 |t--n-noSearchFrm      |Generates search form filer. (no search form)  |
 
-## Navbar Links Sticky:
+### Navbar Links Sticky:
 
 |**Command**           |**Information**                                |
 |----------------------|-----------------------------------------------|
@@ -51,7 +51,7 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 |t--sn-exSubLink-5     |Generates 5 extra sub links.                   |
 |t--sn-ham             |Generates a hamburger menu button.             |
 
-## Navbar Links Non Sticky:
+### Navbar Links Non Sticky:
 
 |**Command**           |**Information**                                |
 |----------------------|-----------------------------------------------|
@@ -79,7 +79,6 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 Initial release of TcSS Snippets Extension.
 
 
------------------------------------------------------------------------------------------------------------
 ## Known Issues
 
 No known issues so far.
