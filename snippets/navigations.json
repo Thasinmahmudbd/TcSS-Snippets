@@ -4,31 +4,31 @@
         "body": [
             "<div class=\"nav\">",
                 "$0",
-                "'\t'<p class=\"txtLogo\">${TM_SELECTED_TEXT: `${1: Logo}`}</p>",
+                "\t<p class=\"txtLogo\">Logo}</p>",
                 "$0",
-                "'\t'<form class=\"searchBar\" action=\"${TM_SELECTED_TEXT: `${1: #}`}\">",
+                "\t<form class=\"searchBar\" action=\"#}\">",
 
-                    "'\t\t'<input class=\"searchField\" type=\"text\">",
-                    "'\t\t'<button class=\"searchBtn\" type=\"input\"><i class=\"fas fa-search\"></i></button>",
+                    "\t\t<input class=\"searchField\" type=\"text\">",
+                    "\t\t<button class=\"searchBtn\" type=\"input\"><i class=\"fas fa-search\"></i></button>",
 
-                "'\t'</form>",
+                "\t</form>",
                 "$0",
-                "'\t'<div class=\"mainLinks\">",
+                "\t<div class=\"mainLinks\">",
 
-                    "'\t\t'<a class=\"mainLink\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: main 1}`}</a>",
+                    "\t\t<a class=\"mainLink\" href=\"#}\">${1: main 1}</a>",
 
-                    "'\t\t'<div class=\"dropDown\">",
-                        "'\t\t\t'<a class=\"mainLink\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: main 2}`}</a>",
-                        "'\t\t\t'<div class=\"subLinks\">",
-                            "'\t\t\t\t'<a class=\"subLink\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: sub 1}`}</a>",
-                        "'\t\t\t'</div>",
-                    "'\t\t'</div>",
+                    "\t\t<div class=\"dropDown\">",
+                        "\t\t\t<a class=\"mainLink\" href=\"#}\">main 2}</a>",
+                        "\t\t\t<div class=\"subLinks\">",
+                            "\t\t\t\t<a class=\"subLink\" href=\"#}\">sub 1}</a>",
+                        "\t\t\t</div>",
+                    "\t\t</div>",
 
-                    "'\t\t'<a class=\"mainLink\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: main 3}`}</a>",
+                    "\t\t<a class=\"mainLink\" href=\"#}\">main 3}</a>",
 
-                    "'\t\t'<a class=\"hamburger\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\"><i class=\"fas fa-bars\"></i></a>",
+                    "\t\t<a class=\"hamburger\" href=\"#}\"><i class=\"fas fa-bars\"></i></a>",
 
-                "'\t'</div>",
+                "\t</div>",
                 "$0",
             "</div>"
         ],
@@ -40,70 +40,70 @@
         "body": [
             "<div class=\"navType_2\">",
                 "$0",
-                "'\t'<p class=\"txtLogo\">${TM_SELECTED_TEXT: `${1: Logo}`}</p>",
+                "\t<p class=\"txtLogo\">Logo}</p>",
                 "$0",
-                "'\t'<form class=\"searchBar\" action=\"${TM_SELECTED_TEXT: `${1: #}`}\">",
+                "\t<form class=\"searchBar\" action=\"#}\">",
 
-                    "'\t\t'<input class=\"searchField\" type=\"text\">",
-                    "'\t\t'<button class=\"searchBtn\" type=\"input\"><i class=\"fas fa-search\"></i></button>",
+                    "\t\t<input class=\"searchField\" type=\"text\">",
+                    "\t\t<button class=\"searchBtn\" type=\"input\"><i class=\"fas fa-search\"></i></button>",
 
-                "'\t'</form>",
+                "\t</form>",
                 "$0",
-                "'\t'<div class=\"mainLinks_2\">",
+                "\t<div class=\"mainLinks_2\">",
 
-                    "'\t\t'<div class=\"mainLink_2\">",
+                    "\t\t<div class=\"mainLink_2\">",
 
-                        "'\t\t\t'<a href=\"${TM_SELECTED_TEXT: `${1: #}\">${TM_SELECTED_TEXT: `${1: main 1}`}</a>",
+                        "\t\t\t<a href=\"#}\">${1: main 1}</a>",
 
-                    "'\t\t'</div>",
+                    "\t\t</div>",
 
-                    "'\t\t'<div class=\"mainLink_2\">",
+                    "\t\t<div class=\"mainLink_2\">",
 
-                        "'\t\t\t'<a href=\"${TM_SELECTED_TEXT: `${1: #}\">${TM_SELECTED_TEXT: `${1: main 2}`}",
+                        "\t\t\t<a href=\"#}\">main 2}",
                             "$0",
-                            "'\t\t\t\t'<div class=\"subLinks_2\">",
+                            "\t\t\t\t<div class=\"subLinks_2\">",
 
-                                "'\t\t\t\t\t'<a class=\"subLink_2\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: sub 1}`}",
+                                "\t\t\t\t\t<a class=\"subLink_2\" href=\"#}\">sub 1}",
                                     "$0",
-                                    "'\t\t\t\t\t\t'<div class=\"exSubLinks_2\">",
+                                    "\t\t\t\t\t\t<div class=\"exSubLinks_2\">",
 
-                                        "'\t\t\t\t\t\t\t'<a class=\"exSubLink_2\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: extra sub 1}`}</a>",
-                                        "'\t\t\t\t\t\t\t'<a class=\"exSubLink_2\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: extra sub 2}`}</a>",
+                                        "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#}\">extra sub 1}</a>",
+                                        "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#}\">extra sub 2}</a>",
 
-                                    "'\t\t\t\t\t\t'</div>",
+                                    "\t\t\t\t\t\t</div>",
                                     "$0",
-                                "'\t\t\t\t\t'</a>",
-                                "'\t\t\t\t\t'<a class=\"subLink_2\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: sub 2}`}</a>",
-                                "'\t\t\t\t\t'<a class=\"subLink_2\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: sub 3}`}</a>",
+                                "\t\t\t\t\t</a>",
+                                "\t\t\t\t\t<a class=\"subLink_2\" href=\"#}\">sub 2}</a>",
+                                "\t\t\t\t\t<a class=\"subLink_2\" href=\"#}\">sub 3}</a>",
 
-                            "'\t\t\t\t'</div>",
+                            "\t\t\t\t</div>",
                             "$0",
-                        "'\t\t\t'</a>",
+                        "\t\t\t</a>",
 
-                    "'\t\t'</div>",
+                    "\t\t</div>",
 
-                    "'\t\t'<div class=\"mainLink_2\">",
+                    "\t\t<div class=\"mainLink_2\">",
 
-                        "'\t\t\t'<a href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: main 3}`}",
+                        "\t\t\t<a href=\"#}\">main 3}",
                             "$0",
-                            "'\t\t\t\t'<div class=\"subLinks_2\">",
+                            "\t\t\t\t<div class=\"subLinks_2\">",
 
-                                "'\t\t\t\t\t'<a class=\"subLink_2\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: sub 1}`}</a>",
-                                "'\t\t\t\t\t'<a class=\"subLink_2\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\">${TM_SELECTED_TEXT: `${1: sub 2}`}</a>",
+                                "\t\t\t\t\t<a class=\"subLink_2\" href=\"#}\">sub 1}</a>",
+                                "\t\t\t\t\t<a class=\"subLink_2\" href=\"#}\">sub 2}</a>",
 
-                            "'\t\t\t\t'</div>",
+                            "\t\t\t\t</div>",
                             "$0",
-                        "'\t\t\t'</a>",
+                        "\t\t\t</a>",
 
-                    "'\t\t'</div>",
+                    "\t\t</div>",
 
-                "'\t'</div>",
+                "\t</div>",
                 "$0",
-                "'\t'<div class=\"mainLinks\">",
+                "\t<div class=\"mainLinks\">",
 
-                    "'\t\t\t'<a class=\"hamburger\" href=\"${TM_SELECTED_TEXT: `${1: #}`}\"><i class=\"fas fa-bars\"></i></a>",
+                    "\t\t\t<a class=\"hamburger\" href=\"#}\"><i class=\"fas fa-bars\"></i></a>",
 
-                "'\t'</div>",
+                "\t</div>",
                 "$0",
             "</div>"
         ],
