@@ -10,7 +10,7 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 |        Command        |                  Information                  |
 |:----------------------|----------------------------------------------:|
 |t--                    |Generates a boilerplate with latest TcSS CDN.  |
-|_______________________|_______________________________________________|
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 
 ### Navbar:
 
@@ -18,7 +18,7 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 |:----------------------|----------------------------------------------:|
 |t--nsn                 |Generates a non sticky nav bar.                |
 |t--sn                  |Generates a sticky nav bar.                    |
-|_______________________|_______________________________________________|
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 
 ### Navbar Elements:
 
@@ -29,7 +29,7 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 |t--n-noLogo            |Generates logo filer. (no logo)                |
 |t--n-searchFrm         |Generates a search form.                       |
 |t--n-noSearchFrm       |Generates search form filer. (no search form)  |
-|_______________________|_______________________________________________|
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 
 ### Navbar Links Sticky:
 
@@ -53,7 +53,7 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 |t--sn-exSubLink-4      |Generates 4 extra sub links.                   |
 |t--sn-exSubLink-5      |Generates 5 extra sub links.                   |
 |t--sn-ham              |Generates a hamburger menu button.             |
-|_______________________|_______________________________________________|
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 
 ### Navbar Links Non Sticky:
 
@@ -71,7 +71,7 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 |t--nsn-subLink-4       |Generates 4 sub links.                         |
 |t--nsn-subLink-5       |Generates 5 sub links.                         |
 |t--nsn-ham             |Generates a hamburger menu button.             |
-|_______________________|_______________________________________________|
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 
 
 
