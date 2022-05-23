@@ -7,20 +7,20 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 # Commands
 ### Boilerplate:
 
-|<div style="width:200px">**Command**</div>|<div style="width:400px">**Information**</div>|
+|`       Command       `|`                 Information                 `|
 |-----------------------|-----------------------------------------------|
 |t--                    |Generates a boilerplate with latest TcSS CDN.  |
 
 ### Navbar:
 
-|<div style="width:200px">**Command**</div>|<div style="width:400px">**Information**</div>|
+|`       Command       `|`                 Information                 `|
 |-----------------------|-----------------------------------------------|
 |t--nsn                 |Generates a non sticky nav bar.                |
 |t--sn                  |Generates a sticky nav bar.                    |
 
 ### Navbar Elements:
 
-|<div style="width:200px">**Command**</div>|<div style="width:400px">**Information**</div>|
+|`       Command       `|`                 Information                 `|
 |-----------------------|-----------------------------------------------|
 |t--n-txtLogo           |Generates a text logo.                         |
 |t--n-imgLogo           |Generates a image logo.                        |
@@ -30,7 +30,7 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 
 ### Navbar Links Sticky:
 
-|<div style="width:200px">**Command**</div>|<div style="width:400px">**Information**</div>|
+|`       Command       `|`                 Information                 `|
 |-----------------------|-----------------------------------------------|
 |t--sn-mainLink-1       |Generates a main link.                         |
 |t--sn-mainLink-2       |Generates 2 main links.                        |
@@ -53,7 +53,7 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 
 ### Navbar Links Non Sticky:
 
-|<div style="width:200px">**Command**</div>|<div style="width:400px">**Information**</div>|
+|`       Command       `|`                 Information                 `|
 |-----------------------|-----------------------------------------------|
 |t--nsn-mainLink-1      |Generates a main link.                         |
 |t--nsn-mainLink-2      |Generates 2 main links.                        |
