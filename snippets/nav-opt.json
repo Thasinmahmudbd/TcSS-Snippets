@@ -1,0 +1,464 @@
+{
+    "TcSS 1.0.0 Navigation - Text Logo":{
+        "prefix": "t--n-txtLogo",
+        "body": [
+                "\t<!-- Text Logo. -->",
+                "\t<p class=\"txtLogo\">Logo</p>"
+        ],
+        "description": "Creates a text logo."
+    },
+
+    "TcSS 1.0.0 Navigation - Image Logo":{
+        "prefix": "t--n-imgLogo",
+        "body": [
+                "\t<!-- Image Logo. -->",
+                "\t<img class=\"imgLogo\" src=\"#\" alt=\"Logo\">"
+        ],
+        "description": "Creates an image logo."
+    },
+
+    "TcSS 1.0.0 Navigation - No Logo":{
+        "prefix": "t--n-noLogo",
+        "body": [
+                "\t<!-- No Logo. -->",
+                "\t<span></span>"
+        ],
+        "description": "Creates an empty logo filler."
+    },
+
+    "TcSS 1.0.0 Navigation - Search Form":{
+        "prefix": "t--n-searchFrm",
+        "body": [
+                "\t<!-- Search Form. -->",
+                "\t<form class=\"searchBar\" action=\"#\">",
+
+                    "\t\t<input class=\"searchField\" type=\"text\">",
+                    "\t\t<button class=\"searchBtn\" type=\"input\"><i class=\"fas fa-search\"></i></button>",
+
+                "\t</form>"
+        ],
+        "description": "Creates a search form for navigation."
+    },
+
+    "TcSS 1.0.0 Navigation - No Search Form":{
+        "prefix": "t--n-searchFrm",
+        "body": [
+                "\t<!-- Search Form Filler. -->",
+                "\t<span></span>"
+        ],
+        "description": "Creates an empty search form filler."
+    },
+
+    "TcSS 1.0.0 Navigation - One Main Link (sticky nav)":{
+        "prefix": "t--sn-mainLink-1",
+        "body": [
+                "\t\t<!-- Main Link. -->",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">${1: main}</a>",
+
+                "\t\t</div>"
+        ],
+        "description": "Creates 1 main link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Two Main Links (sticky nav)":{
+        "prefix": "t--sn-mainLink-2",
+        "body": [
+                "\t\t<!-- Main Links. -->",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">${1: main}</a>",
+
+                "\t\t</div>",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">main</a>",
+
+                "\t\t</div>"
+        ],
+        "description": "Creates 2 main link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Three Main Links (sticky nav)":{
+        "prefix": "t--sn-mainLink-3",
+        "body": [
+                "\t\t<!-- Main Links. -->",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">${1: main}</a>",
+
+                "\t\t</div>",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">main</a>",
+
+                "\t\t</div>",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">main</a>",
+
+                "\t\t</div>"
+        ],
+        "description": "Creates 3 main link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Four Main Links (sticky nav)":{
+        "prefix": "t--sn-mainLink-4",
+        "body": [
+                "\t\t<!-- Main Links. -->",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">${1: main}</a>",
+
+                "\t\t</div>",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">main</a>",
+
+                "\t\t</div>",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">main</a>",
+
+                "\t\t</div>",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">main</a>",
+
+                "\t\t</div>"
+        ],
+        "description": "Creates 4 main link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Five Main Links (sticky nav)":{
+        "prefix": "t--sn-mainLink-5",
+        "body": [
+                "\t\t<!-- Main Links. -->",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">${1: main}</a>",
+
+                "\t\t</div>",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">main</a>",
+
+                "\t\t</div>",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">main</a>",
+
+                "\t\t</div>",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">main</a>",
+
+                "\t\t</div>",
+                "\t\t<div class=\"mainLink_2\">",
+
+                    "\t\t\t<a href=\"#\">main</a>",
+
+                "\t\t</div>"
+        ],
+        "description": "Creates 5 main link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Sub Link Group (sticky nav)":{
+        "prefix": "t--sn-subLinkGrp",
+        "body": [
+            "\t\t<div class=\"mainLink_2\">",
+
+                "\t\t\t<a href=\"#\">${1: main}",
+                    "$0",
+                    "\t\t\t\t<div class=\"subLinks_2\">",
+
+                        "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>",
+                        "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>",
+
+                    "\t\t\t\t</div>",
+                    "$0",
+                "\t\t\t</a>",
+
+            "\t\t</div>"
+        ],
+        "description": "Creates group of sub links (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - One Sub Link (sticky nav)":{
+        "prefix": "t--sn-subLink-1",
+        "body": [
+
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">${1: sub}</a>"
+        ],
+        "description": "Creates 1 sub link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Two Sub Links (sticky nav)":{
+        "prefix": "t--sn-subLink-2",
+        "body": [
+
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">${1: sub}</a>",
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>"
+        ],
+        "description": "Creates 2 sub link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Three Sub Links (sticky nav)":{
+        "prefix": "t--sn-subLink-3",
+        "body": [
+
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">${1: sub}</a>",
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>",
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>"
+        ],
+        "description": "Creates 3 sub link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Four Sub Links (sticky nav)":{
+        "prefix": "t--sn-subLink-4",
+        "body": [
+
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">${1: sub}</a>",
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>",
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>",
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>"
+        ],
+        "description": "Creates 4 sub link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Five Sub Links (sticky nav)":{
+        "prefix": "t--sn-subLink-5",
+        "body": [
+
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">${1: sub}</a>",
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>",
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>",
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>",
+            "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>"
+        ],
+        "description": "Creates 5 sub link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Extra Sub Link Group (sticky nav)":{
+        "prefix": "t--sn-exSubLinkGrp",
+        "body": [
+                    "\t\t<div class=\"mainLink_2\">",
+
+                        "\t\t\t<a href=\"#\">${1: main}",
+                            "$0",
+                            "\t\t\t\t<div class=\"subLinks_2\">",
+
+                                "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub",
+                                    "$0",
+                                    "\t\t\t\t\t\t<div class=\"exSubLinks_2\">",
+
+                                        "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>",
+                                        "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>",
+
+                                    "\t\t\t\t\t\t</div>",
+                                    "$0",
+                                "\t\t\t\t\t</a>",
+                                "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>",
+                                "\t\t\t\t\t<a class=\"subLink_2\" href=\"#\">sub</a>",
+
+                            "\t\t\t\t</div>",
+                            "$0",
+                        "\t\t\t</a>",
+
+                    "\t\t</div>"
+        ],
+        "description": "Creates group of extra sub links (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - One Extra Sub Link (sticky nav)":{
+        "prefix": "t--sn-exSubLink-1",
+        "body": [
+
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">${1: extra sub}</a>"
+        ],
+        "description": "Creates 1 extra sub link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Two Extra Sub Links (sticky nav)":{
+        "prefix": "t--sn-exSubLink-2",
+        "body": [
+
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">${1: extra sub}</a>",
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>"
+        ],
+        "description": "Creates 2 extra sub link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Three Extra Sub Links (sticky nav)":{
+        "prefix": "t--sn-exSubLink-3",
+        "body": [
+
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">${1: extra sub}</a>",
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>",
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>"
+        ],
+        "description": "Creates 3 extra sub link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Four Extra Sub Links (sticky nav)":{
+        "prefix": "t--sn-exSubLink-4",
+        "body": [
+
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">${1: extra sub}</a>",
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>",
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>",
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>"
+        ],
+        "description": "Creates 4 extra sub link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Five Extra Sub Links (sticky nav)":{
+        "prefix": "t--sn-exSubLink-5",
+        "body": [
+
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">${1: extra sub}</a>",
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>",
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>",
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>",
+            "\t\t\t\t\t\t\t<a class=\"exSubLink_2\" href=\"#\">extra sub</a>"
+        ],
+        "description": "Creates 5 extra sub link (sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Hamburger Button (sticky nav)":{
+        "prefix": "t--sn-ham",
+        "body": [
+                "\t<div class=\"mainLinks\">",
+
+                    "\t\t\t<a class=\"hamburger\" href=\"#\"><i class=\"fas fa-bars\"></i></a>",
+
+                "\t</div>"
+        ],
+        "description": "Creates hamburger button (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - One Main Link (non sticky nav)":{
+        "prefix": "t--nsn-mainLink-1",
+        "body": [
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>"
+        ],
+        "description": "Creates 1 main link (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Two Main Link (non sticky nav)":{
+        "prefix": "t--nsn-mainLink-2",
+        "body": [
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>",
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>"
+        ],
+        "description": "Creates 2 main link (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Three Main Link (non sticky nav)":{
+        "prefix": "t--nsn-mainLink-3",
+        "body": [
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>",
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>",
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>"
+        ],
+        "description": "Creates 3 main link (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Four Main Link (non sticky nav)":{
+        "prefix": "t--nsn-mainLink-4",
+        "body": [
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>",
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>",
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>",
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>"
+        ],
+        "description": "Creates 4 main link (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Five Main Link (non sticky nav)":{
+        "prefix": "t--nsn-mainLink-5",
+        "body": [
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>",
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>",
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>",
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>",
+                "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>"
+        ],
+        "description": "Creates 5 main link (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Sub Link Group (non sticky nav)":{
+        "prefix": "t--nsn-subLinkGrp",
+        "body": [
+                "\t\t<div class=\"dropDown\">",
+                    "\t\t\t<a class=\"mainLink\" href=\"#\">main</a>",
+                    "\t\t\t<div class=\"subLinks\">",
+                        "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+                        "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+                        "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+                    "\t\t\t</div>",
+                "\t\t</div>"
+        ],
+        "description": "Creates group sub links (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - One Sub Link (non sticky nav)":{
+        "prefix": "t--nsn-subLink-1",
+        "body": [
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>"
+        ],
+        "description": "Creates 1 sub link (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Two Sub Link (non sticky nav)":{
+        "prefix": "t--nsn-subLink-2",
+        "body": [
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>"
+        ],
+        "description": "Creates 2 sub link (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Three Sub Link (non sticky nav)":{
+        "prefix": "t--nsn-subLink-3",
+        "body": [
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>"
+        ],
+        "description": "Creates 3 sub link (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Four Sub Link (non sticky nav)":{
+        "prefix": "t--nsn-subLink-4",
+        "body": [
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>"
+        ],
+        "description": "Creates 4 sub link (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Five Sub Link (non sticky nav)":{
+        "prefix": "t--nsn-subLink-5",
+        "body": [
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>",
+            "\t\t\t\t<a class=\"subLink\" href=\"#\">sub</a>"
+        ],
+        "description": "Creates 5 sub link (non sticky nav)."
+    },
+
+    "TcSS 1.0.0 Navigation - Hamburger Button (non sticky nav)":{
+        "prefix": "t--nsn-ham",
+        "body": [
+            "\t\t<a class=\"hamburger\" href=\"#\"><i class=\"fas fa-bars\"></i></a>"
+        ],
+        "description": "Creates hamburger button (non sticky nav)."
+    }
+}
+

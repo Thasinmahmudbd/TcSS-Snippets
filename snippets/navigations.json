@@ -4,8 +4,10 @@
         "body": [
             "<div class=\"nav\">",
                 "$0",
+                "\t<!-- Text Logo. -->",
                 "\t<p class=\"txtLogo\">Logo</p>",
                 "$0",
+                "\t<!-- Search Form. -->",
                 "\t<form class=\"searchBar\" action=\"#\">",
 
                     "\t\t<input class=\"searchField\" type=\"text\">",
@@ -13,6 +15,7 @@
 
                 "\t</form>",
                 "$0",
+                "\t<!-- Links. -->",
                 "\t<div class=\"mainLinks\">",
 
                     "\t\t<a class=\"mainLink\" href=\"#\">${1: main 1}</a>",
@@ -40,8 +43,10 @@
         "body": [
             "<div class=\"navType_2\">",
                 "$0",
+                "\t<!-- Text Logo. -->",
                 "\t<p class=\"txtLogo\">Logo</p>",
                 "$0",
+                "\t<!-- Search Form. -->",
                 "\t<form class=\"searchBar\" action=\"#\">",
 
                     "\t\t<input class=\"searchField\" type=\"text\">",
@@ -49,6 +54,7 @@
 
                 "\t</form>",
                 "$0",
+                "\t<!-- Links. -->",
                 "\t<div class=\"mainLinks_2\">",
 
                     "\t\t<div class=\"mainLink_2\">",

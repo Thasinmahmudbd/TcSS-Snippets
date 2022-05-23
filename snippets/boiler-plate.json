@@ -12,13 +12,13 @@
                 "\t<meta http-equiv=\"X-UA-Compatible\" content=\"IE=edge\">",
                 "\t<meta name=\"viewport\" content=\"width=device-width, initial-scale=1.0\">",
                 "\t<meta name=\"description\" content=\"Your description.\">",
-                "\t<meta name=\"keywords\" content=\tag, tag, tag\">",
+                "\t<meta name=\"keywords\" content=\"tag, tag, tag\">",
                 "\t<meta name=\"author\" content=\"Your Name\">",
 
-                "\t<!-- title -->",
+                "\t<!-- Title -->",
                 "\t<title>Your Title Here</title>",
 
-                "\t<!-- favicon -->",
+                "\t<!-- Favicon -->",
                 "\t<link rel=\"apple-touch-icon\" sizes=\"180x180\" href=\"#\">",
                 "\t<link rel=\"icon\" type=\"image/png\" sizes=\"32x32\" href=\"#\">",
                 "\t<link rel=\"icon\" type=\"image/png\" sizes=\"16x16\" href=\"#\">",
@@ -33,7 +33,7 @@
                 "\t<!-- CDN Production (current version)-->",
                 "\t<link rel=\"stylesheet\" href=\"https://rawcdn.githack.com/Thasinmahmudbd/TcSS-Framework/8272c261b90f1bd691ade6402fa9f73ada36fa12/dist/css/tcss.min.css\">",
 
-                "\t<!-- script -->",
+                "\t<!-- Script -->",
                 "\t<script defer src=\"#\"></script>",
 
             "</head>",
