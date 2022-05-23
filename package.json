@@ -19,15 +19,27 @@
         "snippets": [
             {
                 "language": "html",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/boiler-plate.json"
             },
             {
                 "language": "javascript",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/boiler-plate.json"
             },
             {
                 "language": "javascriptreact",
-                "path": "./snippets/snippets.code-snippets"
+                "path": "./snippets/boiler-plate.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/navigations.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/navigations.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/navigations.json"
             }
         ]
     }

@@ -1,0 +1,112 @@
+{
+    "TcSS 1.0.0 Navigation - Non Sticky":{
+        "prefix": "t--nav-non-sticky",
+        "body": [
+            "<div class=\"nav\">",
+                "$0",
+                "<p class=\"txtLogo\">TcSS</p>",
+                "$0",
+                "<form class=\"searchBar\" action=\"#\">",
+
+                    "<input class=\"searchField\" type=\"text\">",
+                    "<button class=\"searchBtn\" type=\"input\"><i class=\"fas fa-search\"></i></button>",
+
+                "</form>",
+                "$0",
+                "<div class=\"mainLinks\">",
+
+                    "<a class=\"mainLink\" href=\"#\">${1: main 1}</a>",
+
+                    "<div class=\"dropDown\">",
+                        "<a class=\"mainLink\" href=\"#\">main 2</a>",
+                        "<div class=\"subLinks\">",
+                            "<a class=\"subLink\" href=\"#\">sub 1</a>",
+                        "</div>",
+                    "</div>",
+
+                    "<a class=\"mainLink\" href=\"#\">main 3</a>",
+
+                    "<a class=\"hamburger\" href=\"#\"><i class=\"fas fa-bars\"></i></a>",
+
+                "</div>",
+                "$0",
+            "</div>"
+        ],
+        "description": "Creates a non sticky navbar."
+    },
+
+    "TcSS 1.0.0 Navigation - Sticky":{
+        "prefix": "t--nav-sticky",
+        "body": [
+            "<div class=\"navType_2\">",
+                "$0",
+                "<p class=\"txtLogo\">TcSS</p>",
+                "$0",
+                "<form class=\"searchBar\" action=\"#\">",
+
+                    "<input class=\"searchField\" type=\"text\">",
+                    "<button class=\"searchBtn\" type=\"input\"><i class=\"fas fa-search\"></i></button>",
+
+                "</form>",
+                "$0",
+                "<div class=\"mainLinks_2\">",
+
+                    "<div class=\"mainLink_2\">",
+
+                        "<a href=\"#\">${1: main 1}</a>",
+
+                    "</div>",
+
+                    "<div class=\"mainLink_2\">",
+
+                        "<a href=\"#\">main 2",
+                            "$0",
+                            "<div class=\"subLinks_2\">",
+
+                                "<a class=\"subLink_2\" href=\"#\">sub 1",
+                                    "$0",
+                                    "<div class=\"exSubLinks_2\">",
+
+                                        "<a class=\"exSubLink_2\" href=\"#\">extra sub 1</a>",
+                                        "<a class=\"exSubLink_2\" href=\"#\">extra sub 2</a>",
+
+                                    "</div>",
+                                    "$0",
+                                "</a>",
+                                "<a class=\"subLink_2\" href=\"#\">sub 2</a>",
+                                "<a class=\"subLink_2\" href=\"#\">sub 3</a>",
+
+                            "</div>",
+                            "$0",
+                        "</a>",
+
+                    "</div>",
+
+                    "<div class=\"mainLink_2\">",
+
+                        "<a   href=\"#\">main 3",
+                            "$0",
+                            "<div class=\"subLinks_2\">",
+
+                                "<a class=\"subLink_2\" href=\"#\">sub 1</a>",
+                                "<a class=\"subLink_2\" href=\"#\">sub 2</a>",
+
+                            "</div>",
+                            "$0",
+                        "</a>",
+
+                    "</div>",
+
+                "</div>",
+                "$0",
+                "<div class=\"mainLinks\">",
+
+                    "<a class=\"hamburger\" href=\"#\"><i class=\"fas fa-bars\"></i></a>",
+
+                "</div>",
+                "$0",
+            "</div>"
+        ],
+        "description": "Creates a sticky navbar."
+    }
+}

@@ -1,6 +1,6 @@
 {
     "TcSS 1.0.0 Starter Template":{
-        "prefix": "t--!",
+        "prefix": "t--",
         "body": [
             "<!DOCTYPE html>",
             "<html lang=\"en\">",
