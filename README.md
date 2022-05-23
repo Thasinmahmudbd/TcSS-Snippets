@@ -1,65 +1,87 @@
 # TcSS Snippets README
 
-This is the README for your extension "tcss-snippets". After writing up a brief description, we recommend including the following sections.
+This extension will generate code for you minimizing your coding time & saving a huge amount of work. All you have to do is type in `t--` + `TAB` and your up and running with a full template. 
 
-## Features
+Check out all the other commands given below. Hope this helps improve your TcSS journey. 
 
-Describe specific features of your extension including screenshots of your extension in action. Image paths are relative to this README file.
+# Commands
+## Boilerplate:
 
-For example if there is an image subfolder under your extension project workspace:
+|**Command**           |**Information**                                |
+|----------------------|-----------------------------------------------|
+|t--                   |Generates a boilerplate with latest TcSS CDN.  |
 
-\!\[feature X\]\(images/feature-x.png\)
+## Navbar:
 
-> Tip: Many popular extensions utilize animations. This is an excellent way to show off your extension! We recommend short, focused animations that are easy to follow.
+|**Command**           |**Information**                                |
+|----------------------|-----------------------------------------------|
+|t--nsn                |Generates a non sticky nav bar.                |
+|t--sn                 |Generates a sticky nav bar.                    |
 
-## Requirements
+## Navbar Elements:
 
-If you have any requirements or dependencies, add a section describing those and how to install and configure them.
+|**Command**           |**Information**                                |
+|----------------------|-----------------------------------------------|
+|t--n-txtLogo          |Generates a text logo.                         |
+|t--n-imgLogo          |Generates a image logo.                        |
+|t--n-noLogo           |Generates logo filer. (no logo)                |
+|t--n-searchFrm        |Generates a search form.                       |
+|t--n-noSearchFrm      |Generates search form filer. (no search form)  |
 
-## Extension Settings
+## Navbar Links Sticky:
 
-Include if your extension adds any VS Code settings through the `contributes.configuration` extension point.
+|**Command**           |**Information**                                |
+|----------------------|-----------------------------------------------|
+|t--sn-mainLink-1      |Generates a main link.                         |
+|t--sn-mainLink-2      |Generates 2 main links.                        |
+|t--sn-mainLink-3      |Generates 3 main links.                        |
+|t--sn-mainLink-4      |Generates 4 main links.                        |
+|t--sn-mainLink-5      |Generates 5 main links.                        |
+|t--sn-subLinkGrp      |Generates a sub link group.                    |
+|t--sn-subLink-1       |Generates a sub link.                          |
+|t--sn-subLink-2       |Generates 2 sub links.                         |
+|t--sn-subLink-3       |Generates 3 sub links.                         |
+|t--sn-subLink-4       |Generates 4 sub links.                         |
+|t--sn-subLink-5       |Generates 5 sub links.                         |
+|t--sn-exSubLinkGrp    |Generates a extra sub link group.              |
+|t--sn-exSubLink-1     |Generates a extra sub link.                    |
+|t--sn-exSubLink-2     |Generates 2 extra sub links.                   |
+|t--sn-exSubLink-3     |Generates 3 extra sub links.                   |
+|t--sn-exSubLink-4     |Generates 4 extra sub links.                   |
+|t--sn-exSubLink-5     |Generates 5 extra sub links.                   |
+|t--sn-ham             |Generates a hamburger menu button.             |
 
-For example:
+## Navbar Links Non Sticky:
 
-This extension contributes the following settings:
+|**Command**           |**Information**                                |
+|----------------------|-----------------------------------------------|
+|t--nsn-mainLink-1     |Generates a main link.                         |
+|t--nsn-mainLink-2     |Generates 2 main links.                        |
+|t--nsn-mainLink-3     |Generates 3 main links.                        |
+|t--nsn-mainLink-4     |Generates 4 main links.                        |
+|t--nsn-mainLink-5     |Generates 5 main links.                        |
+|t--nsn-subLinkGrp     |Generates a sub link group.                    |
+|t--nsn-subLink-1      |Generates a sub link.                          |
+|t--nsn-subLink-2      |Generates 2 sub links.                         |
+|t--nsn-subLink-3      |Generates 3 sub links.                         |
+|t--nsn-subLink-4      |Generates 4 sub links.                         |
+|t--nsn-subLink-5      |Generates 5 sub links.                         |
+|t--nsn-ham            |Generates a hamburger menu button.             |
 
-* `myExtension.enable`: enable/disable this extension
-* `myExtension.thing`: set to `blah` to do something
 
-## Known Issues
-
-Calling out known issues can help limit users opening duplicate issues against your extension.
 
 ## Release Notes
 
-Users appreciate release notes as you update your extension.
+- Extension version is proportional to the framework version. [Meaning extension version 1.0.0 is responsible for framework version 1.0.0.]
 
 ### 1.0.0
 
-Initial release of ...
+Initial release of TcSS Snippets Extension.
 
-### 1.0.1
-
-Fixed issue #.
-
-### 1.1.0
-
-Added features X, Y, and Z.
 
 -----------------------------------------------------------------------------------------------------------
+## Known Issues
 
-## Working with Markdown
-
-**Note:** You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
-
-* Split the editor (`Cmd+\` on macOS or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on macOS or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (macOS) to see a list of Markdown snippets
-
-### For more information
-
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+No known issues so far.
 
 **Enjoy!**

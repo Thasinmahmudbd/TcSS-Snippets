@@ -41,7 +41,7 @@
     },
 
     "TcSS 1.0.0 Navigation - No Search Form":{
-        "prefix": "t--n-searchFrm",
+        "prefix": "t--n-noSearchFrm",
         "body": [
                 "\t<!-- Search Form Filler. -->",
                 "\t<span></span>"
