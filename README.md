@@ -7,66 +7,66 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 # Commands
 ### Boilerplate:
 
-|**Command**           |**Information**                                |
-|----------------------|-----------------------------------------------|
-|t--                   |Generates a boilerplate with latest TcSS CDN.  |
+|------**Command**------|----------------**Information**----------------|
+|-----------------------|-----------------------------------------------|
+|t--                    |Generates a boilerplate with latest TcSS CDN.  |
 
 ### Navbar:
 
-|**Command**           |**Information**                                |
-|----------------------|-----------------------------------------------|
-|t--nsn                |Generates a non sticky nav bar.                |
-|t--sn                 |Generates a sticky nav bar.                    |
+|------**Command**------|----------------**Information**----------------|
+|-----------------------|-----------------------------------------------|
+|t--nsn                 |Generates a non sticky nav bar.                |
+|t--sn                  |Generates a sticky nav bar.                    |
 
 ### Navbar Elements:
 
-|**Command**           |**Information**                                |
-|----------------------|-----------------------------------------------|
-|t--n-txtLogo          |Generates a text logo.                         |
-|t--n-imgLogo          |Generates a image logo.                        |
-|t--n-noLogo           |Generates logo filer. (no logo)                |
-|t--n-searchFrm        |Generates a search form.                       |
-|t--n-noSearchFrm      |Generates search form filer. (no search form)  |
+|------**Command**------|----------------**Information**----------------|
+|-----------------------|-----------------------------------------------|
+|t--n-txtLogo           |Generates a text logo.                         |
+|t--n-imgLogo           |Generates a image logo.                        |
+|t--n-noLogo            |Generates logo filer. (no logo)                |
+|t--n-searchFrm         |Generates a search form.                       |
+|t--n-noSearchFrm       |Generates search form filer. (no search form)  |
 
 ### Navbar Links Sticky:
 
-|**Command**           |**Information**                                |
-|----------------------|-----------------------------------------------|
-|t--sn-mainLink-1      |Generates a main link.                         |
-|t--sn-mainLink-2      |Generates 2 main links.                        |
-|t--sn-mainLink-3      |Generates 3 main links.                        |
-|t--sn-mainLink-4      |Generates 4 main links.                        |
-|t--sn-mainLink-5      |Generates 5 main links.                        |
-|t--sn-subLinkGrp      |Generates a sub link group.                    |
-|t--sn-subLink-1       |Generates a sub link.                          |
-|t--sn-subLink-2       |Generates 2 sub links.                         |
-|t--sn-subLink-3       |Generates 3 sub links.                         |
-|t--sn-subLink-4       |Generates 4 sub links.                         |
-|t--sn-subLink-5       |Generates 5 sub links.                         |
-|t--sn-exSubLinkGrp    |Generates a extra sub link group.              |
-|t--sn-exSubLink-1     |Generates a extra sub link.                    |
-|t--sn-exSubLink-2     |Generates 2 extra sub links.                   |
-|t--sn-exSubLink-3     |Generates 3 extra sub links.                   |
-|t--sn-exSubLink-4     |Generates 4 extra sub links.                   |
-|t--sn-exSubLink-5     |Generates 5 extra sub links.                   |
-|t--sn-ham             |Generates a hamburger menu button.             |
+|------**Command**------|----------------**Information**----------------|
+|-----------------------|-----------------------------------------------|
+|t--sn-mainLink-1       |Generates a main link.                         |
+|t--sn-mainLink-2       |Generates 2 main links.                        |
+|t--sn-mainLink-3       |Generates 3 main links.                        |
+|t--sn-mainLink-4       |Generates 4 main links.                        |
+|t--sn-mainLink-5       |Generates 5 main links.                        |
+|t--sn-subLinkGrp       |Generates a sub link group.                    |
+|t--sn-subLink-1        |Generates a sub link.                          |
+|t--sn-subLink-2        |Generates 2 sub links.                         |
+|t--sn-subLink-3        |Generates 3 sub links.                         |
+|t--sn-subLink-4        |Generates 4 sub links.                         |
+|t--sn-subLink-5        |Generates 5 sub links.                         |
+|t--sn-exSubLinkGrp     |Generates a extra sub link group.              |
+|t--sn-exSubLink-1      |Generates a extra sub link.                    |
+|t--sn-exSubLink-2      |Generates 2 extra sub links.                   |
+|t--sn-exSubLink-3      |Generates 3 extra sub links.                   |
+|t--sn-exSubLink-4      |Generates 4 extra sub links.                   |
+|t--sn-exSubLink-5      |Generates 5 extra sub links.                   |
+|t--sn-ham              |Generates a hamburger menu button.             |
 
 ### Navbar Links Non Sticky:
 
-|**Command**           |**Information**                                |
-|----------------------|-----------------------------------------------|
-|t--nsn-mainLink-1     |Generates a main link.                         |
-|t--nsn-mainLink-2     |Generates 2 main links.                        |
-|t--nsn-mainLink-3     |Generates 3 main links.                        |
-|t--nsn-mainLink-4     |Generates 4 main links.                        |
-|t--nsn-mainLink-5     |Generates 5 main links.                        |
-|t--nsn-subLinkGrp     |Generates a sub link group.                    |
-|t--nsn-subLink-1      |Generates a sub link.                          |
-|t--nsn-subLink-2      |Generates 2 sub links.                         |
-|t--nsn-subLink-3      |Generates 3 sub links.                         |
-|t--nsn-subLink-4      |Generates 4 sub links.                         |
-|t--nsn-subLink-5      |Generates 5 sub links.                         |
-|t--nsn-ham            |Generates a hamburger menu button.             |
+|------**Command**------|----------------**Information**----------------|
+|-----------------------|-----------------------------------------------|
+|t--nsn-mainLink-1      |Generates a main link.                         |
+|t--nsn-mainLink-2      |Generates 2 main links.                        |
+|t--nsn-mainLink-3      |Generates 3 main links.                        |
+|t--nsn-mainLink-4      |Generates 4 main links.                        |
+|t--nsn-mainLink-5      |Generates 5 main links.                        |
+|t--nsn-subLinkGrp      |Generates a sub link group.                    |
+|t--nsn-subLink-1       |Generates a sub link.                          |
+|t--nsn-subLink-2       |Generates 2 sub links.                         |
+|t--nsn-subLink-3       |Generates 3 sub links.                         |
+|t--nsn-subLink-4       |Generates 4 sub links.                         |
+|t--nsn-subLink-5       |Generates 5 sub links.                         |
+|t--nsn-ham             |Generates a hamburger menu button.             |
 
 
 
