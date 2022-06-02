@@ -1,14 +1,28 @@
 {
     "name": "tcss-snippets",
     "displayName": "TcSS Snippets",
-    "description": "Simple TcSS v1.0.0 snippet generator.",
+    "description": "Simple TcSS snippet generator.",
     "version": "1.0.0",
-    "publisher": "Thasin Mahmud",
+    "publisher": "ThasinMahmud",
+    "author": {
+        "name": "Thasin Mahmud"
+    },
+    "license": "MIT License",
+    "homepage": "https://github.com/Thasinmahmudbd/TcSS-Snippets",
     "repository": {
         "type": "git",
         "url": "https://github.com/Thasinmahmudbd/TcSS-Snippets"
     },
     "icon" : "icon.png",
+    "keywords": [
+        "TcSS",
+        "tcss",
+        "Page Builder",
+        "Controls",
+        "CSS",
+        "Thasin",
+        "HTML"
+    ],
     "engines": {
         "vscode": "^1.67.0"
     },
