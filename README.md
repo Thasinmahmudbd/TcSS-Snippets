@@ -2,7 +2,11 @@
 
 This extension will generate code for you minimizing your coding time & saving a huge amount of work. All you have to do is type in `t--` + `TAB` and your up and running with a full template. 
 
-![Gif]()
+![Gif](https://rawcdn.githack.com/Thasinmahmudbd/TcSS-Snippets/9a33013c19a676178c4d577db6a07a04fb3cbd53/media/gif%201.gif)
+
+Clicking the `down arrow ⬇️` will let you see all the different snippet commands in editor.
+
+![Gif](https://rawcdn.githack.com/Thasinmahmudbd/TcSS-Snippets/9a33013c19a676178c4d577db6a07a04fb3cbd53/media/gif%202.gif)
 
 Check out all the other commands given below. Hope this helps improve your TcSS journey. 
 
