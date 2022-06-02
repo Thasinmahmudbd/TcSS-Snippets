@@ -1,0 +1,236 @@
+{
+    "TcSS 1.0.0 Form Elements - Input":{
+        "prefix": "t--frm-inp",
+        "body": [
+
+            "<div class=\"frmElm_${1}\">",
+
+                "<label  for=\"\"> Demo label </label>",
+                "<input  type=\"text\">",
+
+            "</div>"
+
+        ],
+        "description": "Creates an input element."
+    },
+
+
+
+    "TcSS 1.0.0 Form Elements - Input 15":{
+        "prefix": "t--frm-inp15",
+        "body": [
+
+            "<div class=\"frmElm_15\">",
+
+                "<input type=\"text\" required>",
+                "<label for=\"\"> ${1: Demo label} </label>",
+
+            "</div>"
+
+        ],
+        "description": "Creates an input element, type-15."
+    },
+
+
+
+    "TcSS 1.0.0 Form Elements - Radio":{
+        "prefix": "t--frm-radio",
+        "body": [
+
+            "<div>",
+            "$0",
+                "<label class=\"radio_${1}\" for=\"Demo1\">",
+                    "<input type=\"radio\" id=\"Demo1\" name=\"1\" value=\"\">",
+                    "<span></span> <!--Important-->",
+                    "Demo 1",
+                "</label>",
+                "$0",
+                "<label class=\"radio_${1}\" for=\"Demo2\">",
+                    "<input type=\"radio\" id=\"Demo2\" name=\"1\" value=\"\">",
+                    "<span></span> <!--Important-->",
+                    "Demo 2",
+                "</label>",
+                "$0",
+                "<label class=\"radio_${1}\" for=\"Demo3\">",
+                    "<input type=\"radio\" id=\"Demo3\" name=\"1\" value=\"\">",
+                    "<span></span> <!--Important-->",
+                    "Demo 3",
+                "</label>",
+                "$0",
+            "</div>"
+
+        ],
+        "description": "Creates an radio element."
+    },
+
+
+
+    "TcSS 1.0.0 Form Elements - Checkbox":{
+        "prefix": "t--frm-check",
+        "body": [
+
+            "<div>",
+
+                "<label class=\"check_${1}\" for=\"Demo1\">",
+                    "<input type=\"checkbox\" id=\"Demo1\" name=\"1\" value=\"\">",
+                    "<span></span> <!--Important-->",
+                    "Demo 1",
+                "</label>",
+
+                "<label class=\"check_${1}\" for=\"Demo2\">",
+                    "<input type=\"checkbox\" id=\"Demo2\" name=\"2\" value=\"\">",
+                    "<span></span> <!--Important-->",
+                    "Demo 2",
+                "</label>",
+
+                "<label class=\"check_${1}\" for=\"Demo3\">",
+                    "<input type=\"checkbox\" id=\"Demo3\" name=\"3\" value=\"\">",
+                    "<span></span> <!--Important-->",
+                    "Demo 3",
+                "</label>",
+
+            "</div>"
+
+        ],
+        "description": "Creates an checkbox element."
+    },
+
+
+
+    "TcSS 1.0.0 Form Elements - Radio family":{
+        "prefix": "t--frm-radio-f",
+        "body": [
+
+            "<div class=\"radioFam_${1}\">",
+
+                "<input type=\"radio\" id=\"Demo1\" name=\"1\" value=\"\">",
+                "<label for=\"Demo1\">Demo 1</label>",
+
+                "<input type=\"radio\" id=\"Demo2\" name=\"1\" value=\"\">",
+                "<label for=\"Demo2\">Demo 2</label>",
+
+                "<input type=\"radio\" id=\"Demo3\" name=\"1\" value=\"\">",
+                "<label for=\"Demo3\">Demo 3</label>",
+
+            "</div>"
+
+        ],
+        "description": "Creates an radio family element."
+    },
+
+
+
+    "TcSS 1.0.0 Form Elements - Checkbox family":{
+        "prefix": "t--frm-check-f",
+        "body": [
+
+            "<div class=\"checkFam_${1}\">",
+
+                "<input type=\"checkbox\" id=\"Demo1\" name=\"1\" value=\"\">",
+                "<label for=\"Demo1\">Demo 1</label>",
+
+                "<input type=\"checkbox\" id=\"Demo2\" name=\"2\" value=\"\">",
+                "<label for=\"Demo2\">Demo 2</label>",
+
+                "<input type=\"checkbox\" id=\"Demo3\" name=\"3\" value=\"\">",
+                "<label for=\"Demo3\">Demo 3</label>",
+
+            "</div>"
+
+        ],
+        "description": "Creates an checkbox family element."
+    },
+
+
+
+    "TcSS 1.0.0 Form Elements - Selector":{
+        "prefix": "t--frm-selector",
+        "body": [
+
+            "<div class=\"select_${1}\">",
+
+                "<label for=\"\">I have a pet </label>",
+
+                "<select name=\"\" id=\"\">",
+                    "<option value=\"\">cat.</option>",
+                    "<option value=\"\">dog.</option>",
+                    "<option value=\"\">bird.</option>",
+                "</select>",
+
+                "<span></span> <!--Important-->",
+
+            "</div>"
+
+        ],
+        "description": "Creates a selector."
+    },
+
+
+
+    "TcSS 1.0.0 Form Elements - Selector 4":{
+        "prefix": "t--frm-selector4",
+        "body": [
+
+            "<div class=\"select_4\">",
+
+                "<label for=\"\">I have a pet",
+                    "<select name=\"\" id=\"\">",
+                        "<option value=\"\">cat</option>",
+                        "<option value=\"\">dog</option>",
+                        "<option value=\"\">bird</option>",
+                    "</select>",
+                    ". His name is Bo.",
+                "</label>",
+
+                "<span></span> <!--Important-->",
+
+            "</div>"
+
+        ],
+        "description": "Creates a selector, type-4."
+    },
+
+
+
+    "TcSS 1.0.0 Form Elements - File upload button":{
+        "prefix": "t--frm-file",
+        "body": [
+
+            "<div class=\"file_${1}\">",
+
+                "<label for=\"\" class=\"fBtn\">",
+                    "<i class=\"fas fa-cloud-upload-alt\"></i>",
+                "</label>",
+
+                "<input class=\"fName\" type=\"file\" name=\"\" id=\"\">",
+
+            "</div>"
+
+        ],
+        "description": "Creates a file upload button."
+    },
+
+
+
+    "TcSS 1.0.0 Form Elements - Buttons":{
+        "prefix": "t--frm-btns",
+        "body": [
+
+            "<button>Demo button</button>",
+            "<input class=\"frmBtn\" value=\"Demo button\" type=\"button\">",
+            "<input class=\"successBtn\" value=\"Demo button\" type=\"button\">",
+            "<input class=\"dangerBtn\" value=\"Demo button\" type=\"button\">",
+            "<input class=\"pendingBtn\" value=\"Demo button\" type=\"button\">",
+            "<input class=\"frmBtnR\" value=\"Demo button\" type=\"button\">",
+            "<input class=\"successBtnR\" value=\"Demo button\" type=\"button\">",
+            "<input class=\"dangerBtnR\" value=\"Demo button\" type=\"button\">",
+            "<input class=\"pendingBtnR\" value=\"Demo button\" type=\"button\"> $1"
+
+        ],
+        "description": "Creates all buttons."
+    }
+
+
+
+
+}

@@ -73,6 +73,62 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 |t--nsn-ham             |Generates a hamburger menu button.             |
 |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 
+### Frames:
+
+|        Command        |                  Information                  |
+|:----------------------|----------------------------------------------:|
+|t--fr1-all             |Generates all frame 1 elements.                |
+|t--fr2-left            |Generates left sided frame 2.                  |
+|t--fr2-right           |Generates right sided frame 2.                 |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+
+### Frame 01 Elements:
+
+|        Command        |                  Information                  |
+|:----------------------|----------------------------------------------:|
+|t--fr1                 |Generates frame 01 template.                   |
+|t--fr1-gf              |Generates gap filler.                          |
+|t--fr1-ts              |Generates top/main section.                    |
+|t--fr1-ms11            |Generates mid section, ratio(1:1).             |
+|t--fr1-ms21            |Generates mid section, ratio(2:1).             |
+|t--fr1-ms12            |Generates mid section, ratio(1:2).             |
+|t--fr1-ms31            |Generates mid section, ratio(3:1).             |
+|t--fr1-ms13            |Generates mid section, ratio(1:3).             |
+|t--fr1-ms111           |Generates mid section, ratio(1:1:1).           |
+|t--fr1-msr1            |Generates mid section, round left.             |
+|t--fr1-ms1r            |Generates mid section, round right.            |
+|t--fr1-ms1s2           |Generates mid section, right side 2 sections.  |
+|t--fr1-mss21           |Generates mid section, left side 2 sections.   |
+|t--fr1-ms              |Generates mid section.                         |
+|t--fr1-fs              |Generates footer section.                      |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+
+### Frame 02 Elements:
+
+|        Command        |                  Information                  |
+|:----------------------|----------------------------------------------:|
+|t--fr2-lsb             |Generates left navigation link with sub links. |
+|t--fr2-lb              |Generates left navigation link.                |
+|t--fr2-rsb             |Generates right navigation link with sub links.|
+|t--fr2-rb              |Generates right navigation link.               |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+
+### Form Elements:
+
+|        Command        |                  Information                  |
+|:----------------------|----------------------------------------------:|
+|t--frm-inp             |Generates input element.                       |
+|t--frm-inp15           |Generates input element, type-15.              |
+|t--frm-radio           |Generates radio element.                       |
+|t--frm-check           |Generates checkbox element.                    |
+|t--frm-radio-f         |Generates radio family element.                |
+|t--frm-check-f         |Generates checkbox family element.             |
+|t--frm-selector        |Generates selector.                            |
+|t--frm-selector4       |Generates selector, type-4.                    |
+|t--frm-file            |Generates file upload button.                  |
+|t--frm-btns            |Generates all buttons.                         |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+
 
 
 ## Release Notes

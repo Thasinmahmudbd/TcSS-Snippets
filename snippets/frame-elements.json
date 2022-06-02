@@ -1,0 +1,439 @@
+{
+    "TcSS 1.0.0 Frame 01 - Container":{
+        "prefix": "t--fr1",
+        "body": [
+
+                "<div class=\"fr w_80Per m_a\"> <!--Starting: frame no.1-->",
+                "$0",
+                "\t$1",
+                "$0",
+                "</div> <!--Ending: frame no.1-->"
+
+        ],
+        "description": "Creates a frame 01 template."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Gap filler":{
+        "prefix": "t--fr1-gf",
+        "body": [
+
+            "\t<span> <!--Gap balancer for nav-->",
+                "\t\tThis portion goes behind the navbar as a gap filler.",
+            "\t</span>",
+            "$0",
+            "$1"
+
+        ],
+        "description": "Creates a frame 01 gap filler."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Top section":{
+        "prefix": "t--fr1-ts",
+        "body": [
+
+            "\t<div class=\"frTs_1\"> <!--Starting: main section-->",
+                "\t\t<p>",
+                    "\t\t\t${1: This is the main section.}",
+                "\t\t</p>",
+            "\t</div> <!--Ending: main section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 top/main section."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Mid section, ratio(1:1).":{
+        "prefix": "t--fr1-ms11",
+        "body": [
+
+            "\t<div class=\"frMs_1_1\"> <!--Starting: mid section-->",
+            "$0",
+                "\t\t<div>  <!--Starting: mid section - left-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\t${1: Middle section type: 1 - left part.}",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - left-->",
+                "$0",
+                "\t\t<div> <!--Starting: mid section - right-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 1 - right part.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - right-->",
+                "$0",
+            "\t</div> <!--Ending: mid section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 mid section, ratio(1:1)."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Mid section, ratio(2:1).":{
+        "prefix": "t--fr1-ms21",
+        "body": [
+
+            "\t<div class=\"frMs_2_1\"> <!--Starting: mid section-->",
+            "$0",
+                "\t\t<div>  <!--Starting: mid section - left-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\t${1: Middle section type: 2 - left part.}",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - left-->",
+                "$0",
+                "\t\t<div> <!--Starting: mid section - right-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 2 - right part.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - right-->",
+                "$0",
+            "\t</div> <!--Ending: mid section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 mid section, ratio(2:1)."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Mid section, ratio(1:2).":{
+        "prefix": "t--fr1-ms12",
+        "body": [
+
+            "\t<div class=\"frMs_1_2\"> <!--Starting: mid section-->",
+            "$0",
+                "\t\t<div>  <!--Starting: mid section - left-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\t${1: Middle section type: 3 - left part.}",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - left-->",
+                "$0",
+                "\t\t<div> <!--Starting: mid section - right-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 3 - right part.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - right-->",
+                "$0",
+            "\t</div> <!--Ending: mid section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 mid section, ratio(1:2)."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Mid section, ratio(3:1).":{
+        "prefix": "t--fr1-ms31",
+        "body": [
+
+            "\t<div class=\"frMs_3_1\"> <!--Starting: mid section-->",
+            "$0",
+                "\t\t<div>  <!--Starting: mid section - left-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\t${1: Middle section type: 4 - left part.}",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - left-->",
+                "$0",
+                "\t\t<div> <!--Starting: mid section - right-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 4 - right part.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - right-->",
+                "$0",
+            "\t</div> <!--Ending: mid section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 mid section, ratio(3:1)."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Mid section, ratio(1:3).":{
+        "prefix": "t--fr1-ms13",
+        "body": [
+
+            "\t<div class=\"frMs_1_3\"> <!--Starting: mid section-->",
+            "$0",
+                "\t\t<div>  <!--Starting: mid section - left-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\t${1: Middle section type: 5 - left part.}",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - left-->",
+                "$0",
+                "\t\t<div> <!--Starting: mid section - right-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 5 - right part.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - right-->",
+                "$0",
+            "\t</div> <!--Ending: mid section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 mid section, ratio(1:3)."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Mid section, ratio(1:1:1).":{
+        "prefix": "t--fr1-ms111",
+        "body": [
+
+            "\t<div class=\"frMs_1_1_1\"> <!--Starting: mid section-->",
+            "$0",
+                "\t\t<div>  <!--Starting: mid section - left-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\t${1: Middle section type: 6 - left part.}",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - left-->",
+                "$0",
+                "\t\t<div>  <!--Starting: mid section - middle-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 6 - middle part.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - middle-->",
+                "$0",
+                "\t\t<div> <!--Starting: mid section - right-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 6 - right part.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - right-->",
+                "$0",
+            "\t</div> <!--Ending: mid section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 mid section, ratio(1:1:1)."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Mid section, round left.":{
+        "prefix": "t--fr1-msr1",
+        "body": [
+
+            "\t<div class=\"frMs_R100px_1\"> <!--Starting: mid section-->",
+            "$0",
+                "\t\t<div>  <!--Starting: mid section - left-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\t${1: Middle section type: 7 - left part.}",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - left-->",
+                "$0",
+                "\t\t<div> <!--Starting: mid section - right-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 7 - right part.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - right-->",
+                "$0",
+            "\t</div> <!--Ending: mid section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 mid section, round left."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Mid section, round right.":{
+        "prefix": "t--fr1-ms1r",
+        "body": [
+
+            "\t<div class=\"frMs_1_R100px\"> <!--Starting: mid section-->",
+            "$0",
+                "\t\t<div>  <!--Starting: mid section - left-->",
+                    "\t\t<p>",
+                        "\t\t\t\t${1: Middle section type: 8 - left part.}",
+                    "\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - left-->",
+                "$0",
+                "\t\t<div> <!--Starting: mid section - right-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 8 - right part.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - right-->",
+                "$0",
+            "\t</div> <!--Ending: mid section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 mid section, round right."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Mid section, right side 2 sections.":{
+        "prefix": "t--fr1-ms1s2",
+        "body": [
+
+            "\t<div class=\"frMs_1_s2\"> <!--Starting: mid section-->",
+            "$0",
+                "\t\t<div>  <!--Starting: mid section - 1st element-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\t${1:Middle section type: 9 - left part.}",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - 1st element-->",
+                "$0",
+                "\t\t<div>  <!--Starting: mid section - 2nd element-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 9 - right part - top.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - 2nd element-->",
+                "$0",
+                "\t\t<div> <!--Starting: mid section - 3rd element-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 9 - right part - bottom.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - 3rd element-->",
+                "$0",
+            "\t</div> <!--Ending: mid section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 mid section, right side 2 sections."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Mid section, left side 2 sections.":{
+        "prefix": "t--fr1-mss21",
+        "body": [
+
+            "\t<div class=\"frMs_s2_1\"> <!--Starting: mid section-->",
+            "$0",
+                "\t\t<div>  <!--Starting: mid section - 1st element-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\t${1: Middle section type: 10 - left part - top.}",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - 1st element-->",
+                "$0",
+                "\t\t<div>  <!--Starting: mid section - 2nd element-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 10 - left part - bottom.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - 2nd element-->",
+                "$0",
+                "\t\t<div> <!--Starting: mid section - 3rd element-->",
+                    "\t\t\t<p>",
+                        "\t\t\t\tMiddle section type: 10 - right part.",
+                    "\t\t\t</p>",
+                "\t\t</div> <!--Ending: mid section - 3rd element-->",
+                "$0",
+            "\t</div> <!--Ending: mid section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 mid section, left side 2 sections."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Mid section":{
+        "prefix": "t--fr1-ms",
+        "body": [
+
+            "\t<div class=\"frMs_1\"> <!--Starting: mid section-->",
+            "$0",
+                "\t\t<div>",
+                    "\t\t\t<p>",
+                        "\t\t\t\t${1: Middle section type: 11.}",
+                    "\t\t\t</p>",
+                "\t\t</div>",
+                "$0",
+            "\t</div> <!--Ending: mid section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 mid section."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 01 - Footer section":{
+        "prefix": "t--fr1-fs",
+        "body": [
+
+            "\t<div class=\"frBs_1\"> <!--Starting: footer section-->",
+                "\t\t<p>",
+                    "\t\t\t${n: This is the footer section.}",
+                "\t\t</p>",
+            "\t</div> <!--Ending: footer section-->",
+            "$0"
+
+        ],
+        "description": "Creates a frame 01 footer section."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 02 - Left navigation link with sub links.":{
+        "prefix": "t--fr2-lsb",
+        "body": [
+
+            "\t\t\t<li><a class=\"fr2Ls_btn\" href=\"#\">Demo main nav</a>",
+                "\t\t\t\t<ul> <!--Starting: side panel - sub links-->",
+                    "\t\t\t\t\t<li><a class=\"fr2Ls_btn\" href=\"#\">Demo sub nav</a></li>",
+                    "\t\t\t\t\t<li><a class=\"fr2Ls_btn\" href=\"#\">Demo sub nav</a></li>",
+                    "\t\t\t\t\t<li><a class=\"fr2Ls_btn\" href=\"#\">Demo sub nav</a></li>",
+                    "\t\t\t\t\t<li><a class=\"fr2Ls_btn\" href=\"#\">Demo sub nav</a></li>",
+                    "\t\t\t\t\t<li><a class=\"fr2Ls_btn\" href=\"#\">Demo sub nav</a></li>",
+                "\t\t\t\t</ul> <!--Ending: side panel - sub links-->",
+            "\t\t\t</li>"
+
+        ],
+        "description": "Creates a frame 02 left navigation link with sub links."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 02 - Left navigation link":{
+        "prefix": "t--fr2-lb",
+        "body": [
+
+            "\t\t\t<li><a class=\"fr2Ls_btn\" href=\"#\">Demo main nav</a></li>"
+
+        ],
+        "description": "Creates a frame 02 left navigation link."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 02 - Right navigation link with sub links.":{
+        "prefix": "t--fr2-rsb",
+        "body": [
+
+            "\t\t\t<li><a class=\"fr2Rs_btn\" href=\"#\">Demo main nav</a>",
+                "\t\t\t\t<ul> <!--Starting: side panel - sub links-->",
+                    "\t\t\t\t\t<li><a class=\"fr2Rs_btn\" href=\"#\">Demo sub nav</a></li>",
+                    "\t\t\t\t\t<li><a class=\"fr2Rs_btn\" href=\"#\">Demo sub nav</a></li>",
+                    "\t\t\t\t\t<li><a class=\"fr2Rs_btn\" href=\"#\">Demo sub nav</a></li>",
+                    "\t\t\t\t\t<li><a class=\"fr2Rs_btn\" href=\"#\">Demo sub nav</a></li>",
+                    "\t\t\t\t\t<li><a class=\"fr2Rs_btn\" href=\"#\">Demo sub nav</a></li>",
+                "\t\t\t\t</ul> <!--Ending: side panel - sub links-->",
+            "\t\t\t</li>"
+
+        ],
+        "description": "Creates a frame 02 right navigation link with sub links."
+    },
+
+
+
+    "TcSS 1.0.0 Frame 02 - Right navigation link":{
+        "prefix": "t--fr2-rb",
+        "body": [
+
+            "\t\t\t<li><a class=\"fr2Rs_btn\" href=\"#\">Demo main nav</a></li>"
+
+        ],
+        "description": "Creates a frame 02 right navigation link."
+    }
+
+}

@@ -40,6 +40,54 @@
             {
                 "language": "javascriptreact",
                 "path": "./snippets/navigations.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/nav-opt.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/nav-opt.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/nav-opt.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/frames.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/frames.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/frames.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/frame-elements.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/frame-elements.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/frame-elements.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/forms.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/forms.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/forms.json"
             }
         ]
     }
