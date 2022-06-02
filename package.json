@@ -88,6 +88,42 @@
             {
                 "language": "javascriptreact",
                 "path": "./snippets/forms.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/tables.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/tables.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/tables.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/scrollers.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/scrollers.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/scrollers.json"
+            },
+            {
+                "language": "html",
+                "path": "./snippets/patterns.json"
+            },
+            {
+                "language": "javascript",
+                "path": "./snippets/patterns.json"
+            },
+            {
+                "language": "javascriptreact",
+                "path": "./snippets/patterns.json"
             }
         ]
     }

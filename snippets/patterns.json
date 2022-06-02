@@ -1,0 +1,147 @@
+{
+
+    "TcSS 1.0.0 Table - Pattern png":{
+        "prefix": "t--ptrn-png",
+        "body": [
+
+            "\t<div class=\"png\">",
+            "$0",
+                "\t\t$1",
+            "$0",
+            "\t</div>"
+
+        ],
+        "description": "Creates png pattern."
+    },
+
+
+
+    "TcSS 1.0.0 Table - Pattern box":{
+        "prefix": "t--ptrn-box",
+        "body": [
+
+            "\t<div class=\"box\">",
+            "$0",
+                "\t\t$1",
+            "$0",
+            "\t</div>"
+
+        ],
+        "description": "Creates box pattern."
+    },
+
+
+
+    "TcSS 1.0.0 Table - Pattern check board":{
+        "prefix": "t--ptrn-check",
+        "body": [
+
+            "\t<div class=\"checkBoard\">",
+            "$0",
+                "\t\t$1",
+            "$0",
+            "\t</div>"
+
+        ],
+        "description": "Creates check board pattern."
+    },
+
+
+
+    "TcSS 1.0.0 Table - Pattern ruby":{
+        "prefix": "t--ptrn-ruby",
+        "body": [
+
+            "\t<div class=\"ruby\">",
+            "$0",
+                "\t\t$1",
+            "$0",
+            "\t</div>"
+
+        ],
+        "description": "Creates ruby pattern."
+    },
+
+
+
+    "TcSS 1.0.0 Table - Pattern clover":{
+        "prefix": "t--ptrn-clover",
+        "body": [
+
+            "\t<div class=\"clover\">",
+            "$0",
+                "\t\t$1",
+            "$0",
+            "\t</div>"
+
+        ],
+        "description": "Creates clover pattern."
+    },
+
+
+
+    "TcSS 1.0.0 Table - Pattern rainbow":{
+        "prefix": "t--ptrn-rainbow",
+        "body": [
+
+            "\t<div class=\"rainbow\">",
+            "$0",
+                "\t\t$1",
+            "$0",
+            "\t</div>"
+
+        ],
+        "description": "Creates rainbow pattern."
+    },
+
+
+
+    "TcSS 1.0.0 Table - Pattern target":{
+        "prefix": "t--ptrn-target",
+        "body": [
+
+            "\t<div class=\"target\">",
+            "$0",
+                "\t\t$1",
+            "$0",
+            "\t</div>"
+
+        ],
+        "description": "Creates target pattern."
+    },
+
+
+
+    "TcSS 1.0.0 Table - Pattern net":{
+        "prefix": "t--ptrn-net",
+        "body": [
+
+            "\t<div class=\"net\">",
+            "$0",
+                "\t\t$1",
+            "$0",
+            "\t</div>"
+
+        ],
+        "description": "Creates net pattern."
+    },
+
+
+
+    "TcSS 1.0.0 Table - Pattern shade":{
+        "prefix": "t--ptrn-shade",
+        "body": [
+
+            "\t<div class=\"shade\">",
+            "$0",
+                "\t\t$1",
+            "$0",
+            "\t</div>"
+
+        ],
+        "description": "Creates shade pattern."
+    }
+
+
+
+}

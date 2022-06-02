@@ -1,0 +1,44 @@
+{
+
+    "TcSS 1.0.0 Table - Vertical scroller":{
+        "prefix": "t--scrlr-v",
+        "body": [
+
+            "\t<div class=\"vScrlr_${1} snapInline\">",
+                "$0",
+                "\t\t<div class=\"vScrlrElm\">Content 1</div>",
+                "\t\t<div class=\"vScrlrElm\">Content 2</div>",
+                "\t\t<div class=\"vScrlrElm\">Content 3</div>",
+                "\t\t<div class=\"vScrlrElm\">Content 4</div>",
+                "\t\t<div class=\"vScrlrElm\">Content 5</div>",
+                "$0",
+            "\t</div>"
+
+        ],
+        "description": "Creates vertical scroller."
+    },
+
+
+
+
+    "TcSS 1.0.0 Table - Horizontal scroller":{
+        "prefix": "t--scrlr-h",
+        "body": [
+
+            "\t<div class=\"hScrlr_${1} snapInline\">",
+                "$0",
+                "\t\t<div class=\"hScrlrElm\">Content 1</div>",
+                "\t\t<div class=\"hScrlrElm\">Content 2</div>",
+                "\t\t<div class=\"hScrlrElm\">Content 3</div>",
+                "\t\t<div class=\"hScrlrElm\">Content 4</div>",
+                "\t\t<div class=\"hScrlrElm\">Content 5</div>",
+                "$0",
+            "\t</div>"
+
+        ],
+        "description": "Creates horizontal scroller."
+    }
+
+
+
+}

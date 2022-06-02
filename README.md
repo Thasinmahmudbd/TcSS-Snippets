@@ -2,6 +2,8 @@
 
 This extension will generate code for you minimizing your coding time & saving a huge amount of work. All you have to do is type in `t--` + `TAB` and your up and running with a full template. 
 
+![Gif]()
+
 Check out all the other commands given below. Hope this helps improve your TcSS journey. 
 
 # Commands
@@ -12,7 +14,7 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 |t--                    |Generates a boilerplate with latest TcSS CDN.  |
 |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 
-### Navbar:
+### Navbars:
 
 |        Command        |                  Information                  |
 |:----------------------|----------------------------------------------:|
@@ -127,6 +129,50 @@ Check out all the other commands given below. Hope this helps improve your TcSS 
 |t--frm-selector4       |Generates selector, type-4.                    |
 |t--frm-file            |Generates file upload button.                  |
 |t--frm-btns            |Generates all buttons.                         |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+
+### Tables:
+
+|        Command        |                  Information                  |
+|:----------------------|----------------------------------------------:|
+|t--tbl-b               |Generates basic table.                         |
+|t--tbl-bBlue           |Generates basic blue table.                    |
+|t--tbl-bBlack          |Generates basic black table.                   |
+|t--tbl-bDark           |Generates basic dark table.                    |
+|t--tbl-clBlue          |Generates classic blue table.                  |
+|t--tbl-clBlack         |Generates classic black table.                 |
+|t--tbl-caBlack         |Generates calendar black table.                |
+|t--tbl-caBlue          |Generates calendar blue table.                 |
+|t--tbl-mBlack          |Generates modern black table.                  |
+|t--tbl-mBlue           |Generates modern blue table.                   |
+|t--tbl-stBlack         |Generates stacked black table.                 |
+|t--tbl-stBlue          |Generates stacked blue table.                  |
+|t--tbl-shBlack         |Generates shredded black table.                |
+|t--tbl-shBlue          |Generates shredded blue table.                 |
+|t--tbl-zigzag          |Generates zigzag table.                        |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+
+### Scrollers:
+
+|        Command        |                  Information                  |
+|:----------------------|----------------------------------------------:|
+|t--scrlr-v             |Generates vertical scroller.                   |
+|t--scrlr-h             |Generates horizontal scroller.                 |
+|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
+
+### Patterns:
+
+|        Command        |                  Information                  |
+|:----------------------|----------------------------------------------:|
+|t--ptrn-png            |Generates png pattern.                         |
+|t--ptrn-box            |Generates box pattern.                         |
+|t--ptrn-check          |Generates check board pattern.                 |
+|t--ptrn-ruby           |Generates ruby pattern.                        |
+|t--ptrn-clover         |Generates clover pattern.                      |
+|t--ptrn-rainbow        |Generates rainbow pattern.                     |
+|t--ptrn-target         |Generates target pattern.                      |
+|t--ptrn-net            |Generates net pattern.                         |
+|t--ptrn-shade          |Generates shade pattern.                       |
 |&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;  &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;|
 
 

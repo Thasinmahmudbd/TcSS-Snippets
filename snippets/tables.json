@@ -1,0 +1,482 @@
+{
+
+    "TcSS 1.0.0 Table - Basic":{
+        "prefix": "t--tbl-b",
+        "body": [
+
+            "\t<table class=\"tableBasic\">",
+                "\t\t<tr>",
+                    "\t\t\t<th>${1: header}</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates basic table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Basic (blue)":{
+        "prefix": "t--tbl-bBlue",
+        "body": [
+
+            "\t<table class=\"tableBasicBlue\">",
+                "\t\t<tr>",
+                    "\t\t\t<th>${1: header}</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates basic blue table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Basic (black)":{
+        "prefix": "t--tbl-bBlack",
+        "body": [
+
+            "\t<table class=\"tableBasicBlack\">",
+                "\t\t<tr>",
+                    "\t\t\t<th>${1: header}</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates basic black table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Basic (dark)":{
+        "prefix": "t--tbl-bDark",
+        "body": [
+
+            "\t<table class=\"tableBasicDark\">",
+                "\t\t<tr>",
+                    "\t\t\t<th>${1: header}</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates basic dark table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Classic (blue)":{
+        "prefix": "t--tbl-clBlue",
+        "body": [
+
+            "\t<table class=\"tableClassicBlue\">",
+                "\t\t<tr>",
+                    "\t\t\t<th>${1: header}</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates classic blue table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Classic (black)":{
+        "prefix": "t--tbl-clBlack",
+        "body": [
+
+            "\t<table class=\"tableClassicBlack\">",
+                "\t\t<tr>",
+                    "\t\t\t<th>${1: header}</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates classic black table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Calendar (black)":{
+        "prefix": "t--tbl-caBlack",
+        "body": [
+
+            "\t<table class=\"tableCalendarBlack\">",
+                "\t\t<tr>",
+                    "\t\t\t<th>${1: header}</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates calendar black table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Calendar (blue)":{
+        "prefix": "t--tbl-caBlue",
+        "body": [
+
+            "\t<table class=\"tableCalendarBlue\">",
+                "\t\t<tr>",
+                    "\t\t\t<th>${1: header}</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates calendar blue table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Modern (black)":{
+        "prefix": "t--tbl-mBlack",
+        "body": [
+
+            "\t<table class=\"tableModernBlack\">",
+                "\t\t<tr>",
+                    "\t\t\t<th width=\"25%\">${1: header}</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates modern black table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Modern (blue)":{
+        "prefix": "t--tbl-mBlue",
+        "body": [
+
+            "\t<table class=\"tableModernBlue\">",
+                "\t\t<tr>",
+                    "\t\t\t<th width=\"25%\">${1: header}</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates modern blue table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Stacked (black)":{
+        "prefix": "t--tbl-stBlack",
+        "body": [
+
+            "\t<table class=\"tableStackedBlack\">",
+                "\t\t<tr>",
+                    "\t\t\t<th>${1: header}</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates stacked black table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Stacked (blue)":{
+        "prefix": "t--tbl-stBlue",
+        "body": [
+
+            "\t<table class=\"tableStackedBlue\">",
+                "\t\t<tr>",
+                    "\t\t\t<th>${1: header}</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                    "\t\t\t<th>header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                    "\t\t\t<td>data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates stacked blue table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Shredded (black)":{
+        "prefix": "t--tbl-shBlack",
+        "body": [
+
+            "\t<table class=\"tableShreddedBlack\">",
+                "\t\t<tr>",
+                    "\t\t\t<th width=\"25%\">${1: header}</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates shredded black table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Shredded (blue)":{
+        "prefix": "t--tbl-shBlue",
+        "body": [
+
+            "\t<table class=\"tableShreddedBlue\">",
+                "\t\t<tr>",
+                    "\t\t\t<th width=\"25%\">${1: header}</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates shredded blue table."
+    },
+
+
+
+    
+    "TcSS 1.0.0 Table - Zigzag":{
+        "prefix": "t--tbl-zigzag",
+        "body": [
+
+            "\t<table class=\"tableZigZag\">",
+                "\t\t<tr>",
+                    "\t\t\t<th width=\"25%\">${1: header}</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                    "\t\t\t<th width=\"25%\">header</th>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                "\t\t</tr>",
+                "\t\t<tr>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                    "\t\t\t<td width=\"25%\">data</td>",
+                "\t\t</tr>",
+            "\t</table>"
+
+        ],
+        "description": "Creates zigzag table."
+    }
+
+
+
+}
